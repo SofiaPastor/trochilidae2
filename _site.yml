@@ -1,0 +1,14 @@
+name: "Trochilidae"
+navbar:
+  title: "Colibríes de Costa Rica"
+  left:
+    - text: "Inicio"
+      href: index.html
+    - text: "Acerca de"
+      href: about.html
+      
+output:
+  html_document:
+    theme: darkly #de la pagina
+         
+
