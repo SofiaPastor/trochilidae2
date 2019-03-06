@@ -1,7 +1,7 @@
 ---
 title: "Trochilidae (Colibríes)"
 ---
-
+<p align="justify">
 Trochilidae es el nombre que se le da a la familia de los colibríes.
 
 Alguno de los nombres comunes que tiene son: gema de la montaña, cola dorada y colibrí. Estas aves tiene un número de adaptaciones evolutivas que van desde alimentarse de nectar de flores hasta su única habilidad de poder volar en reverso hacia cualquier dirección.
@@ -17,6 +17,7 @@ Los colibríes se pueden encontrar en todas los habitats disponibles en el país
 \
 
 Es una especie que se distribuye desde Ecuador hasta el Sur de Mexico. Es común en hábitat alterados urbanos. En Costa Rica se distribuye en todo el pais prefiriendo bosques húmedos desde los 1600-2200msnm. Poco común en las tierras bajas del pacíficos.
+</p>
 
 \
 \
@@ -27,15 +28,20 @@ Es una especie que se distribuye desde Ecuador hasta el Sur de Mexico. Es común
 ![](imagenes/Distribucion.jpg){width=600px}
 </p>
 
+</p>
+<p align="center">
+Mapa de distribución de _A.tzacatl_ en general y en Costa Rica.
+</p>
 \
 \
 \
 \
 
-
+<p align="justify">
 Mide de 10-12 cm de largo, el cuello es verde con borde blanco en la hembra. La coronilla, el lomo y el costado son verdes con toque dorados. El vientre tiene un una coloración grisacea pálida y la cola es tipo rufa con la punta oscura. El pico es casi recto de color rojo y la punta negra. 
 Su alimentación se compone por una variedad de flores incluyendo _Heliconia sp._ y _Musa sp._ y una pequeña ingesta de insectos para obtener proteínas
 Son territoriales y de comportamiento agresivo. Según el listado de la IUCN es una especie menor preocupación.
+</p>
 
 
 \
@@ -47,11 +53,27 @@ Son territoriales y de comportamiento agresivo. Según el listado de la IUCN es 
 ![](imagenes/A.tzacatl.jpg){width=600px}
 </p>
 
+<p align="center">
+Fotografía de A. tzacatl
+</p>
+
+
 \
 \
 \
 \
 
+*Espectrograma y métricas*
+
+<p align="center">
+![](imagenes/espect.jpeg){width=600px}
+</p>
+
+<p align="center">
+![](imagenes/tabla.png){width=600px}
+</p>
+
+\
 Imagenes recopiladas de datazone.birdlife.org y ebird.org
 
 
